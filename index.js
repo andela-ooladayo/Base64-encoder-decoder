@@ -4,7 +4,6 @@
     http://www.onicos.com/staff/iz/amuse/javascript/expert/base64.txt
 */
 
-
 exports.encode = function (str) {
   var base64EncodeChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
   var out, i, len;

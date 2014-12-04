@@ -1,0 +1,19 @@
+{
+  "name": "base64-encoder-decoder",
+  "version": "1.0.0",
+  "description": "Base64 encoder and decoder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andela-ooladayo/Base64-encoder-decoder.git"
+  },
+  "author": "Oladayo Oyelade <oladayo.oyelade@andela.co> (https://github.com/andela-ooladayo/Base64-encoder-decoder/tree/master)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-ooladayo/Base64-encoder-decoder/issues"
+  },
+  "homepage": "https://github.com/andela-ooladayo/Base64-encoder-decoder"
+}
