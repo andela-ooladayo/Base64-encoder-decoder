@@ -10,8 +10,8 @@ This module is for encoding and decoding strings
 var base64 = require('base64-encoder-decoder');
 
 -Encode:
-base64.encode(string)
+base64.encode(string);
 
 -Decode:
-base64.decode(string)
+base64.decode(string);
 
